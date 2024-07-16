@@ -22,7 +22,12 @@
     border: 1px solid rgb(13, 19, 33);
     border-radius: 8px;
     opacity: 0.8;
-    
-    
+}
+.header-bg{
+    background-image: url(../assets/Hero-bg.png);
+    height: 600px;
+    width: 1340px;
+    margin-top:15px;
+    position: absolute;
 }
 
