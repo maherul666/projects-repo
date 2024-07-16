@@ -1,0 +1,28 @@
+/* font Azeret Mono */
+.azeret-mono-text1 {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+}
+/* nav bar */
+.navi-ness{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    align-items: center;
+}
+.navi-ness .btn-1 a{
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+}
+.navi-ness .btn-1{
+    width: 180px;
+    height: 50px;   
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    opacity: 0.8;
+    
+    
+}
+
